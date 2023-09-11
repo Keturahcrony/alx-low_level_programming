@@ -17,6 +17,5 @@ int main(void)
 			(unsigned long)sizeof(long long int));
 			printf("Size of a float: %lu byte(s)",
 					(unsigned long)sizeof(float));
-			printf("[stderr]: [Anything]");
 	return (0);
 }
