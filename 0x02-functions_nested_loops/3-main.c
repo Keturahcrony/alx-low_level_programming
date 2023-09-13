@@ -7,6 +7,7 @@
  */
 int main(void)
 {
+	int _islower(int c);
 	int r;
 
 	r = _islower('H');
